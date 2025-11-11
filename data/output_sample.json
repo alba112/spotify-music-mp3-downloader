@@ -1,0 +1,40 @@
+[
+  {
+    "url": "https://open.spotify.com/track/7Mu0u7u2e0eOiAvMfEr2A7",
+    "result": {
+      "url": "https://open.spotify.com/track/7Mu0u7u2e0eOiAvMfEr2A7",
+      "title": "Japoni (Feat. Camin, Moncho Chavea, Jthyago & Samueliyo Baby)",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2732b856322329a6edaff940f42",
+      "duration": "",
+      "medias": [
+        {
+          "url": "https://cdn2.meow.gs/api/stream?id=zx1hqofHwlPsaAsb7XlMA&exp=1727057947359",
+          "quality": "audio",
+          "extension": "mp3",
+          "type": "audio"
+        }
+      ],
+      "type": "single",
+      "error": false
+    }
+  },
+  {
+    "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q",
+    "result": {
+      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q",
+      "title": "Taste",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
+      "duration": "",
+      "medias": [
+        {
+          "url": "https://cdn4.meow.gs/api/stream?id=0dSpLL-akvBUf0O5fX4kK&exp=1727057950139",
+          "quality": "audio",
+          "extension": "mp3",
+          "type": "audio"
+        }
+      ],
+      "type": "single",
+      "error": false
+    }
+  }
+]
