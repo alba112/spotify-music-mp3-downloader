@@ -1,0 +1,13 @@
+{
+  "http_timeout": 30,
+  "concurrent_requests": 10,
+  "concurrent_downloads": 5,
+  "export": {
+    "audio_output_dir": "data/downloads",
+    "output_json": "data/output_sample.json",
+    "output_csv": "data/output_tracks.csv",
+    "output_excel": "data/output_tracks.xlsx",
+    "output_xml": "data/output_tracks.xml",
+    "output_html": "data/output_tracks.html"
+  }
+}
